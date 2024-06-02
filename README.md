@@ -35,7 +35,7 @@ Thank you for your consideration!
 <table align="center">
   <tr align="center">
     <td valign="top" width="100%">
-      <a href="https://github.com/rakeshutekar/Sign-Language-to-Speech-Translation-Real-time-">
+      <a href="https://github.com/rakeshutekar/Sign-Language-to-Speech-Transltion-Real-time-">
         <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshutekar&repo=Sign-Language-to-Speech-Translation-Real-time-&theme=tokyonight" />
       </a>
       <a href="https://github.com/rakeshutekar/Speech-To-Speech-Translation-real-time-">

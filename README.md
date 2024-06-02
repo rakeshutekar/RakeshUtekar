@@ -35,16 +35,13 @@ Thank you for your consideration!
 <table align="center">
   <tr align="center">
     <td valign="top" width="100%">
-      <a href="https://github.com/rakeshutekar/Sign-Language-Translation">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshutekar&repo=Sign-Language-Translation&theme=tokyonight" />
+      <a href="https://github.com/rakeshutekar/Sign-Language-to-Speech-Translation-Real-time-">
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshutekar&repo=Sign-Language-to-Speech-Translation-Real-time-&theme=tokyonight" />
       </a>
-      <a href="https://github.com/rakeshutekar/Speech-to-Speech-Translation">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshutekar&repo=Speech-to-Speech-Translation&theme=tokyonight" />
+      <a href="https://github.com/rakeshutekar/Speech-To-Speech-Translation-real-time-">
+        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshutekar&repo=Speech-To-Speech-Translation-real-time-&theme=tokyonight" />
       </a>  
     </td>
   </tr>
 </table>
-
 <!--END-->
-
-This updated version focuses more on your passion for creating innovative solutions that help people, particularly those with disabilities. It highlights your sign language-to-speech and speech-to-speech translation projects, emphasizing their potential impact on improving communication and accessibility.

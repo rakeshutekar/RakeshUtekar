@@ -2,7 +2,8 @@
 
 <!--GITHUB GIF-->
 <div align="center">
-  !(https://github.com/rakeshutekar/RakeshUtekar/assets/48244158/1dbf852e-bd84-4148-af9d-f9fcec5ea795)
+  
+![Image 6-2-24 at 2 10 AM](https://github.com/rakeshutekar/RakeshUtekar/assets/48244158/a9fe2b51-b6ba-4043-aee0-7aee0a3cabaa)
 
 </div>
 

@@ -1,15 +1,10 @@
 <!--START-->
-
 <!--GITHUB GIF-->
 <div align="center">
-  
-![Image 6-2-24 at 2 10 AM](https://github.com/rakeshutekar/RakeshUtekar/assets/48244158/a9fe2b51-b6ba-4043-aee0-7aee0a3cabaa)
-
+  <img src="https://github.com/rakeshutekar/RakeshUtekar/assets/48244158/a9fe2b51-b6ba-4043-aee0-7aee0a3cabaa" alt="GitHub" width="772" style="display: block; margin: 0 auto;">
 </div>
-
 <!--INTRODUCTION-->
-<h1 align="center"> Hi there, I'm Rakesh.  </h1>
-
+<h1 align="center"> Hi there, I'm Rakesh Utekar.  </h1>
 Hello, my name is <b>Rakesh</b>, a `Computer Science` graduate student at Seattle University, `specializing in Data Science`. What drives me is the desire to leverage technology to make people's lives easier, especially for those with disabilities.
 
 As a `Machine Learning Engineer` at SlashRTC Software Services Pvt. Ltd., I've developed innovative solutions that have made a real impact. My work on advanced speech-to-text models and chatbots has significantly improved customer satisfaction and accessibility.
@@ -26,7 +21,7 @@ Thank you for your consideration!
 
 <!--GITHUB STREAK-->
 <br>
-<p align = "center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshutekar&" alt="rakeshutekar" />
 </p>
 
@@ -35,7 +30,7 @@ Thank you for your consideration!
 <table align="center">
   <tr align="center">
     <td valign="top" width="100%">
-      <a href="https://github.com/rakeshutekar/Sign-Language-to-Speech-Transltion-Real-time-">
+      <a href="https://github.com/rakeshutekar/Sign-Language-to-Speech-Translation">
         <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshutekar&repo=Sign-Language-to-Speech-Translation-Real-time-&theme=tokyonight" />
       </a>
       <a href="https://github.com/rakeshutekar/Speech-To-Speech-Translation-real-time-">
@@ -44,4 +39,5 @@ Thank you for your consideration!
     </td>
   </tr>
 </table>
+
 <!--END-->

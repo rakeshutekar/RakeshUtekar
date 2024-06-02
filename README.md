@@ -2,7 +2,8 @@
 
 <!--GITHUB GIF-->
 <div align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="75"> 
+  ![Image 6-2-24 at 2 10 AM](https://github.com/rakeshutekar/RakeshUtekar/assets/48244158/1dbf852e-bd84-4148-af9d-f9fcec5ea795)
+
 </div>
 
 <!--INTRODUCTION-->

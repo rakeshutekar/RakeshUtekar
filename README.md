@@ -5,7 +5,7 @@
 </div>
 <!--INTRODUCTION-->
 <h1 align="center"> Hi there, I'm Rakesh Utekar.  </h1>
-Hello, my name is <b>Rakesh</b>, a Computer Science graduate student at Seattle University, specializing in Data Science. What drives me is the desire to leverage technology to make people's lives easier, especially for those with disabilities.
+Hello, I'm <b>Rakesh</b>, a Computer Science graduate student at Seattle University with a specialization in Data Science. I am passionate about utilizing cutting-edge technology to simplify and enhance people's lives.
 
 As a `Machine Learning Engineer` at SlashRTC Software Services Pvt. Ltd., I've developed innovative solutions that have made a real impact. My work on advanced speech-to-text models and chatbots has significantly improved customer satisfaction and accessibility.
 

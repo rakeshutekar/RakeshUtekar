@@ -19,10 +19,21 @@ As I pursue my master's degree with an expected graduation in `2024`, I'm active
 
 Thank you for your consideration!
 
-<!--GITHUB STREAK-->
-<br>
+## Languages and Tools
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,anaconda,github,aws,docker,azure,mongodb,redis,css,html,js,bots,nodejs,postman,d3,linkedin"> </a> </p>
+
+## My Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshutekar&" alt="rakeshutekar" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Thinkright20&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+
+<!--GITHUB STREAK-->
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
 </p>
 
 <!--CURRENTLY WORKING ON-->

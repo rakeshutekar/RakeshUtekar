@@ -21,7 +21,7 @@ Thank you for your consideration!
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,anaconda,github,aws,docker,azure,mongodb,redis,css,html,js,bots,nodejs,postman,d3,linkedin"> </a> </p>
+<p align="left"> <a href="https://github.com/rakeshutekar"><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,anaconda,github,aws,docker,azure,mongodb,redis,css,html,js,bots,nodejs,postman,d3,linkedin"> </a> </p>
 
 ## My Stats:
 <p align="center">
@@ -32,7 +32,7 @@ Thank you for your consideration!
 <!--GITHUB STREAK-->
 <p align="center">
   <a href="https://github.com/rakeshutekar">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshutekar&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 

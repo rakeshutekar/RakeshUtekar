@@ -15,7 +15,7 @@ Additionally, I've developed a cutting-edge `Real-Time Speech to Speech Translat
 
 My proficiency in Python, TensorFlow, PyTorch, deep learning, computer vision, and natural language processing, combined with my deep commitment to creating meaningful solutions, allows me to drive innovation in the field of assistive technologies.
 
-As I pursue my master's degree with an expected graduation in `2024`, I'm actively seeking opportunities to apply my skills and knowledge to projects that can make a difference in people's lives. I genuinely believe that my passion for helping others and expertise in AI would make me a valuable asset to any team!
+As I pursue my master's degree with an expected graduation in `2024`, I'm actively seeking opportunities to apply my skills and knowledge to projects that can make a difference in people's lives. I genuinely believe that my passion for helping others and my expertise in AI would make me a valuable asset to any team!
 
 Thank you for your consideration!
 

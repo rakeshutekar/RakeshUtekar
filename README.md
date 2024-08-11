@@ -9,7 +9,7 @@ Hello, I'm <b>Rakesh</b>, a Computer Science graduate student at Seattle Univers
 
 As a `Machine Learning Engineer` at SlashRTC Software Services Pvt. Ltd., I've developed innovative solutions that have made a real impact. My work on advanced speech-to-text models and chatbots has significantly improved customer satisfaction and accessibility.
 
-One of my most impactful projects is the `Real-Time Sign Language to Speech Translation` system. By leveraging the I3D model and fine-tuning it on the WLASL dataset, I've created a solution that bridges the communication gap for individuals with hearing impairments. This project has the potential to greatly enhance their daily interactions and overall quality of life1
+One of my most impactful projects is the `Real-Time Sign Language to Speech Translation` system. By leveraging the I3D model and fine-tuning it on the WLASL dataset, I've created a solution that bridges the communication gap for individuals with hearing impairments. This project has the potential to greatly enhance their daily interactions and overall quality of life!
 
 Additionally, I've developed a cutting-edge `Real-Time Speech to Speech Translation` system that enables seamless communication across different languages. By incorporating state-of-the-art models like Whisper and OpenAI TTS, I've created a solution that breaks down language barriers and facilitates global understanding.
 

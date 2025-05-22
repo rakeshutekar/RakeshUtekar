@@ -1,8 +1,4 @@
 <!--START-->
-<!--GITHUB GIF-->
-<div align="center">
-  <img src="https://github.com/rakeshutekar/RakeshUtekar/assets/48244158/a9fe2b51-b6ba-4043-aee0-7aee0a3cabaa" alt="GitHub" width="772" style="display: block; margin: 0 auto;">
-</div>
 <!--INTRODUCTION-->
 <h1 align="center"> Hi there, I'm Rakesh Utekar.  </h1>
 Hello, I'm <b>Rakesh</b>, a Computer Science graduate student at Seattle University with a specialization in Data Science. I am passionate about utilizing cutting-edge technology to simplify and enhance people's lives.

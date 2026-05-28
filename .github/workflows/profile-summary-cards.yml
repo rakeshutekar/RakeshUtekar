@@ -13,6 +13,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
       - name: generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:

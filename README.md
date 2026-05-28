@@ -1,50 +1,176 @@
-<!--START-->
-<!--INTRODUCTION-->
-<h1 align="center"> Hi there, I'm Rakesh Utekar.  </h1>
-Hello, I'm <b>Rakesh</b>, a Computer Science graduate student at Seattle University with a specialization in Data Science. I am passionate about utilizing cutting-edge technology to simplify and enhance people's lives.
-
-As a `Machine Learning Engineer` at SlashRTC Software Services Pvt. Ltd., I've developed innovative solutions that have made a real impact. My work on advanced speech-to-text models and chatbots has significantly improved customer satisfaction and accessibility.
-
-One of my most impactful projects is the `Real-Time Sign Language to Speech Translation` system. By leveraging the I3D model and fine-tuning it on the WLASL dataset, I've created a solution that bridges the communication gap for individuals with hearing impairments. This project has the potential to greatly enhance their daily interactions and overall quality of life!
-
-Additionally, I've developed a cutting-edge `Real-Time Speech to Speech Translation` system that enables seamless communication across different languages. By incorporating state-of-the-art models like Whisper and OpenAI TTS, I've created a solution that breaks down language barriers and facilitates global understanding.
-
-My proficiency in Python, TensorFlow, PyTorch, deep learning, computer vision, and natural language processing, combined with my deep commitment to creating meaningful solutions, allows me to drive innovation in the field of assistive technologies.
-
-As I pursue my master's degree with an expected graduation in `2024`, I'm actively seeking opportunities to apply my skills and knowledge to projects that can make a difference in people's lives. I genuinely believe that my passion for helping others and my expertise in AI would make me a valuable asset to any team!
-
-Thank you for your consideration!
-
-## Languages and Tools
-
-<p align="left"> <a href="https://github.com/rakeshutekar"><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,vscode,anaconda,github,aws,docker,azure,mongodb,redis,css,html,js,bots,nodejs,postman,d3,linkedin"> </a> </p>
-
-## My Stats:
+<!-- ============ ANIMATED HEADER ============ -->
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=rakeshutekar&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rakesh%20Utekar&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
-
-<!--GITHUB STREAK-->
+<!-- ============ ANIMATED TYPING SUBTITLE ============ -->
 <p align="center">
-  <a href="https://github.com/rakeshutekar">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshutekar&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
+  <a href="https://github.com/rakeshutekar">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=AI+Engineer+%E2%80%94+RAG+%C2%B7+LLMs+%C2%B7+Speech-to-Speech;Fine-tuning+open+LLMs+%28Qwen+2.5%29;Building+retrieval+pipelines+on+vector+DBs;Shipping+low-latency+real-time+audio+systems" alt="typing-svg" />
+  </a>
 </p>
 
-<!--CURRENTLY WORKING ON-->
-<h2 align="center"> Currently Working on </h2>
-<table align="center">
-  <tr align="center">
-    <td valign="top" width="100%">
-      <a href="https://github.com/rakeshutekar/Sign-Language-to-Speech-Translation">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshutekar&repo=Sign-Language-to-Speech-Translation-Real-time-&theme=tokyonight" />
-      </a>
-      <a href="https://github.com/rakeshutekar/Speech-To-Speech-Translation-real-time-">
-        <img width="49%"  src="https://github-readme-stats.vercel.app/api/pin/?username=rakeshutekar&repo=Speech-To-Speech-Translation-real-time-&theme=tokyonight" />
-      </a>  
-    </td>
-  </tr>
+<!-- ============ SOCIAL / CONTACT ============ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakeshutekar&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  &nbsp;
+  <a href="https://linkedin.com/in/rakesh-utekar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://github.com/rakeshutekar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="mailto:rakeshutekar60@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
+
+---
+
+AI Engineer working across the stack on RAG, LLM fine-tuning, and real-time speech systems. My work has moved from computer-vision and speech models toward applied GenAI — fine-tuning open LLMs, building retrieval pipelines on vector DBs, and shipping low-latency audio workflows to cloud. Based in San Francisco, CA.
+
+## Experience
+
+- **AI Fund** — *Technical Builder / AI Engineer* (Dec 2025–present, Mountain View, CA)
+- **Ditto AI** — *AI Engineer* (May–Dec 2025, Berkeley, CA)
+- **JetskiAI** — *Founding AI/ML Engineer* (Mar–Dec 2025, SF Bay Area)
+- **SuperIntro** — *AI Software Engineer* (Dec 2024–Apr 2025, SF) — Fine-tuned Qwen 2.5 LLM and Stable Diffusion pipelines on Vertex AI with LightRAG; deployed fine-tuned models on GCP with cloud logging and monitoring; integrated via Azure AI Foundry.
+- **Sizzle** — *AI Engineer* (Jan–Mar 2025, SF) — Designed a low-latency Whisper + Qwen 2.5 + BERT workflow with Librosa/TorchAudio feature extraction; **+15% metadata-tagging precision**, **+20% acoustic-linguistic alignment**.
+- **Melp App, Inc.** — *Software Developer (AI/ML)* (May–Jun 2025, SF Bay Area)
+- **Seattle University** — *Research Assistant* (Aug 2024–Dec 2025, Seattle, WA) — Under Prof. Pejman Khadivi: fine-tune Transformers and CNNs for NLP and predictive analytics, with emphasis on automation and model deployment.
+- **Seattle University** — *Teaching Assistant, Visual Analytics* (Mar–Jun 2024, Seattle, WA)
+- **SlashRTC** — *Machine Learning Engineer* (Sep 2021–Aug 2022) / *ML Intern* (Jun–Aug 2021), Mumbai, India — Built Speech-to-Text models with Python and TensorFlow.
+
+## Flagship Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Real-Time Sign Language → Speech
+
+**Problem:** Bridge communication for the deaf and hard-of-hearing by translating American Sign Language signs into spoken audio.
+
+**Approach:** Fine-tune an I3D (Inflated 3D ConvNet) on the WLASL dataset for word-level sign recognition, piping predictions into a TTS stage. I3D captures spatiotemporal features across stacked video frames rather than treating frames independently, which suits the motion-heavy nature of signing.
+
+**Stack:** PyTorch · I3D · WLASL · OpenCV
+
+<a href="https://github.com/rakeshutekar/Sign-Language-to-Speech-Translation">View repo →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Real-Time Speech → Speech Translation
+
+**Problem:** Enable live cross-language conversation without the stop-and-wait of batch translation.
+
+**Approach:** A streaming pipeline chains Whisper (ASR) → translation → OpenAI TTS, with audio streamed in and out continuously. It prioritizes low end-to-end latency by keeping the stages pipelined rather than processing each utterance as a discrete block.
+
+**Stack:** Whisper · OpenAI TTS · Python · streaming audio I/O
+
+<a href="https://github.com/rakeshutekar/Speech-To-Speech-Translation-real-time-">View repo →</a>
+
+</td>
+</tr>
 </table>
 
-<!--END-->
+## Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+**ML / Deep Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/BERT-1E88E5?style=for-the-badge" />
+</p>
+
+**GenAI / LLM**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen%202.5-615CED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LightRAG-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-4B32C3?style=for-the-badge" />
+</p>
+
+**Speech / Audio · Vision**
+
+<p>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Librosa-FF8800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TorchAudio-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+**Cloud / Infra**
+
+<p>
+  <img src="https://img.shields.io/badge/GCP%20%2F%20Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+## 🤝 Open to Collaborate
+
+I enjoy giving back to the AI/ML community and am always happy to:
+
+- 🏆 **Judge** hackathons, demo days, and AI/ML competitions
+- 🎤 **Give interviews, talks & guest sessions** on applied GenAI, RAG, and real-time speech
+- 🧭 **Mentor & guide** engineers and students breaking into AI/ML
+- 💡 **Consult & advise** on AI/ML product direction and architecture
+
+📫 Reach me at **rakeshutekar60@gmail.com** or on [LinkedIn](https://linkedin.com/in/rakesh-utekar).
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rakeshutekar&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=rakeshutekar&hide_border=true&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshutekar&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top-langs" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakeshutekar&theme=tokyo-night&hide_border=true&area=true" alt="activity-graph" />
+</p>
+
+<!--
+  ============ CONTRIBUTION-GRAPH SNAKE ============
+  The image below stays blank until you enable the snake GitHub Action.
+  Setup (one time):
+    1. This must be your profile repo: github.com/rakeshutekar/RakeshUtekar
+    2. Add the workflow file .github/workflows/snake.yml (contents provided in chat)
+    3. Run the action once (Actions tab → "generate snake" → Run workflow)
+       It generates the SVGs and pushes them to the `output` branch.
+  Once that branch exists, the snake animation renders here automatically.
+-->
+<h2 align="center">🐍 Watch my contributions get eaten</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakeshutekar/RakeshUtekar/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakeshutekar/RakeshUtekar/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/rakeshutekar/RakeshUtekar/output/github-snake.svg" />
+  </picture>
+</p>
+
+## Education
+
+- **MS, Computer Science** (Data Science Specialization) — Seattle University (Sep 2022–Aug 2024)
+- **BTech, Computer Engineering** — University of Mumbai (2016–2021)
+
+<!-- ============ ANIMATED FOOTER ============ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+</p>

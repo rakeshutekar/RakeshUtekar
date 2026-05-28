@@ -1,0 +1,22 @@
+name: generate profile summary cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # refresh twice a day
+  workflow_dispatch:          # allow manual runs
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: profile-summary-card-output

@@ -15,10 +15,17 @@ jobs:
     steps:
       - name: checkout repo
         uses: actions/checkout@v4
-      - name: generate profile summary cards
+      - name: generate cards (no auto-commit to main)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: profile-summary-card-output
+          AUTO_PUSH: false
+      - name: publish cards to dedicated branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-summary-card-output
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -23,6 +23,10 @@
 
 AI Engineer working across the stack on RAG, LLM fine-tuning, and real-time speech systems. My work has moved from computer-vision and speech models toward applied GenAI — fine-tuning open LLMs, building retrieval pipelines on vector DBs, and shipping low-latency audio workflows to cloud. Based in San Francisco, CA.
 
+## Featured
+
+📰 [My AI career journey: from international student to AI Fund](https://studyinternational.com/news/ai-career-journey-to-ai-fund/) — featured by Study International.
+
 ## Experience
 
 - **AI Fund** — *Technical Builder / AI Engineer* (Dec 2025–present, Mountain View, CA)
